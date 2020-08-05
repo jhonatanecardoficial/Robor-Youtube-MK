@@ -11,6 +11,7 @@ const nlu = new NaturalLanguageUnderstandingV1({
   url: 'https://gateway.watsonplatform.net/natural-language-understanding/api/'
 })
 
+
 const state = require('./state.js')
 
 async function robot() {
