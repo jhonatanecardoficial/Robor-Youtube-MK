@@ -1,0 +1,30 @@
+{
+  "name": "robor-youtube-mk",
+  "version": "1.0.0",
+  "description": "Projeto para fins de estudos e acompanhamento da aula do Filipe Deschamps em seu canal do Youtube.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:jhonatanecardoficial/Robor-Youtube-MK.git"
+  },
+  "author": "Ecard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com:jhonatanecardoficial/Robor-Youtube-MK/issues"
+  },
+  "homepage": "https://github.com:jhonatanecardoficial/Robor-Youtube-MK#readme",
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "express": "^4.16.4",
+    "gm": "^1.23.1",
+    "googleapis": "^38.0.0",
+    "image-downloader": "^3.4.2",
+    "readline-sync": "^1.4.9",
+    "sbd": "^1.0.18",
+    "watson-developer-cloud": "^3.18.2"
+  }
+}
